@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_tambah
+id btn_tambah
+id btn_ubah
+id et_asal
+id et_deskripsi_lengkap
+id et_deskripsi_singkat
+id et_nama
+id fab_tambah
+id pb_kuliner
+id rv_kuliner
+id tv_asal
+id tv_deskripsi_lengkap
+id tv_deskripsi_singkat
+id tv_id
+id tv_nama
+layout activity_main
+layout activity_tambah
+layout activity_ubah
+layout list_item_kuliner
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.KulinerKita
+xml backup_rules
+xml data_extraction_rules
